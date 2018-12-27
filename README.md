@@ -10,12 +10,8 @@ To run jupyter notebook interactively:
 ### HaarCascade with OpenCBV | Bear detector
 
 >The Titanic was a British ship disaster that on its maiden voyage sunk in the northern Atlantic on April 15, 1912, killing 1502 out of 2224 passengers and crew.
-
 >There exists conclusions regarding the cause of the sinking (hit the iceberg), however the analysis of the data on what factors impacted the survival of passengers still has been continuing until now. 
-
->In this contest, we have to use the machine learning model 
-    to predict whether or not they survived on the sinking titanic.
-
+>In this contest, we have to use the machine learning model to predict whether or not they survived on the sinking titanic.
 >From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
 ### Purpose for This project:
@@ -36,6 +32,5 @@ For each passenger in the test set, use the machine learning model to predict wh
 
 #### Valuation of the Analysis
 *   Output the results from the jupyter Notebook to Kaggle in a csv.file.
-
 
 Competition Website: http://www.kaggle.com/c/titanic-gettingStarted
